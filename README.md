@@ -14,15 +14,29 @@ Open to **remote** opportunities and **internships**.
 
 ---
 
-### ⚔️ Skills
+### 🪧 Skills
+
+**Core Analytical Skills**  
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Strong-blue?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Power%20BI%20%7C%20SQL%20%7C%20Excel-blue?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Star%20Schema-yellow?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-T--SQL%20%7C%20Data%20Modelling-orange?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-Advanced%20%7C%20Dashboards-green?style=flat-square)
-![Energy Analytics](https://img.shields.io/badge/Energy%20%26%20Renewables-Domain%20Knowledge-brightgreen?style=flat-square)
-![Data Modelling](https://img.shields.io/badge/Data%20Modelling-Star%20Schema%20%7C%20Validation-lightgrey?style=flat-square)
-![Communication](https://img.shields.io/badge/Business%20Communication-Clear%20Insights-purple?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Power%20BI%20%7C%20SQL%20%7C%20Excel-0A66C2?style=flat-square)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-Analytical%20Mindset-3B82F6?style=flat-square)
+
+**Technical Tools**  
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Star%20Schema%20%7C%20Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-T--SQL%20%7C%20Data%20Modelling%20%7C%20CTEs-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced%20%7C%20Dashboards%20%7C%20Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Data Modelling](https://img.shields.io/badge/Data%20Modelling-Star%20Schema%20%7C%20Validation-6B7280?style=flat-square)
+
+**Soft Skills**  
+![Communication](https://img.shields.io/badge/Communication-Clear%20%26%20Professional-8B5CF6?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Collaboration-Team%20Oriented-EC4899?style=flat-square)
+![Adaptability](https://img.shields.io/badge/Adaptability-Fast%20Learner-14B8A6?style=flat-square)
+![Attention to Detail](https://img.shields.io/badge/Attention%20to%20Detail-High-F59E0B?style=flat-square)
+
+**Domain & Engineering Background**  
+![Electrical Engineering](https://img.shields.io/badge/Electrical%20Engineering-Background-0EA5E9?style=flat-square)
+![Energy & Renewables](https://img.shields.io/badge/Energy%20%26%20Renewables-Solar%20%7C%20GB%20System%20Data-10B981?style=flat-square)
+![Project Management](https://img.shields.io/badge/Project%20Management-During%20Studies-6366F1?style=flat-square)
 
 ---
 
