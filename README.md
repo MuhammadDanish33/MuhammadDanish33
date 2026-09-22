@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Danish 👋
+# Hi, I'm Muhammad Danish 🙋
 
 **Electrical Engineer** | Aspiring Data Analyst  
 Former Project Manager during my studies | Final-year project focused on **Solar Cell Optimization**
@@ -7,14 +7,14 @@ I turn complex operational and energy data into clear, actionable insights using
 
 ---
 
-### 🎯 Currently Looking For
+### 📢 Currently Looking For
 Junior / Entry-Level **Data Analyst**, **Power BI Analyst**, **Reporting Analyst**, **Operations Analyst**, or **Business Analyst** roles  
 (especially in **Energy**, **Renewables**, **Reporting & Operations**, or **Business Analytics**)  
 Open to **remote** opportunities and **internships**.
 
 ---
 
-### 🛠️ Skills
+### ⚔️ Skills
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Strong-blue?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Power%20BI%20%7C%20SQL%20%7C%20Excel-blue?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Star%20Schema-yellow?style=flat-square)
@@ -26,7 +26,7 @@ Open to **remote** opportunities and **internships**.
 
 ---
 
-### 📌 Featured Projects
+### ♻️ Featured Projects
 
 | Project | One-Line Summary |
 |---------|------------------|
@@ -40,7 +40,7 @@ Open to **remote** opportunities and **internships**.
 
 ---
 
-### 📫 Let's Connect
-I'm actively building my portfolio and open to conversations about junior data roles in energy, renewables, operations or business analytics.
+### ☎️ Let's Connect
+I am actively building my portfolio and open to conversations about junior data roles in energy, renewables, operations or business analytics.
 
-Feel free to explore the projects above — each one includes detailed documentation, business context, KPIs, and clear findings.
+Feel free to explore the projects above  each one includes detailed documentation, business context, KPIs, and clear findings.
