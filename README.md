@@ -13,7 +13,6 @@ Junior / Entry-Level **Data Analyst**, **Power BI Analyst**, **Reporting Analyst
 Open to **remote** opportunities and **internships**.
 
 ---
-
 ### 🛠️ Skills
 
 **Core Analytical Skills**  
@@ -38,6 +37,7 @@ Open to **remote** opportunities and **internships**.
 ![Energy & Renewables](https://img.shields.io/badge/Energy%20%26%20Renewables-Solar%20%7C%20GB%20System-10B981?style=flat-square)
 ![Project Management](https://img.shields.io/badge/Project%20Management-During%20Studies-6366F1?style=flat-square)
 
+> I use **Power BI**, **SQL Server (SSMS)** and **Excel** to clean data, build dashboards, create star schemas, and turn raw numbers into clear business insights especially in energy, retail and operations.
 
 ---
 
@@ -56,6 +56,7 @@ Open to **remote** opportunities and **internships**.
 ---
 
 ### ☎️ Let's Connect
+
 I am actively building my portfolio and open to conversations about junior data roles in energy, renewables, operations or business analytics.
 
-Feel free to explore the projects above  each one includes detailed documentation, business context, KPIs, and clear findings.
+Feel free to explore the projects above each one includes detailed documentation, business context, KPIs, and clear findings.
