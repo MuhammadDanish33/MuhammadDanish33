@@ -14,7 +14,7 @@ Open to **remote** opportunities and **internships**.
 
 ---
 
-### 🪧 Skills
+### 🛠️ Skills
 
 **Core Analytical Skills**  
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Strong-blue?style=flat-square)
@@ -22,9 +22,9 @@ Open to **remote** opportunities and **internships**.
 ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-Analytical%20Mindset-3B82F6?style=flat-square)
 
 **Technical Tools**  
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Star%20Schema%20%7C%20Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-T--SQL%20%7C%20Data%20Modelling%20%7C%20CTEs-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced%20%7C%20Dashboards%20%7C%20Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Dashboards%20%7C%20Star%20Schema-F2C811?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-SQL%20Server%20%7C%20Queries%20%7C%20Data%20Modelling-CC2927?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-Advanced%20%7C%20Dashboards%20%7C%20Power%20Query-217346?style=flat-square)
 ![Data Modelling](https://img.shields.io/badge/Data%20Modelling-Star%20Schema%20%7C%20Validation-6B7280?style=flat-square)
 
 **Soft Skills**  
@@ -35,8 +35,9 @@ Open to **remote** opportunities and **internships**.
 
 **Domain & Engineering Background**  
 ![Electrical Engineering](https://img.shields.io/badge/Electrical%20Engineering-Background-0EA5E9?style=flat-square)
-![Energy & Renewables](https://img.shields.io/badge/Energy%20%26%20Renewables-Solar%20%7C%20GB%20System%20Data-10B981?style=flat-square)
+![Energy & Renewables](https://img.shields.io/badge/Energy%20%26%20Renewables-Solar%20%7C%20GB%20System-10B981?style=flat-square)
 ![Project Management](https://img.shields.io/badge/Project%20Management-During%20Studies-6366F1?style=flat-square)
+
 
 ---
 
