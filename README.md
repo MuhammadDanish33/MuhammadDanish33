@@ -41,8 +41,6 @@ Open to **remote** opportunities and **internships**.
 
 ---
 
----
-
 ### ☎️ Let's Connect
 
 I am actively building my portfolio and open to conversations about junior data roles in energy, renewables, operations or business analytics.
